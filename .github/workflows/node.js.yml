@@ -29,4 +29,11 @@ jobs:
     - run: npm ci
     - run: npm i @angular/cli
     - run: npm run build --if-present
-    - run: npm test
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v4
+      with:
+          name: dist-without-markdown
+          path: |
+            dist/browser
+            !dist/**/*.md
+#    - run: npm test
