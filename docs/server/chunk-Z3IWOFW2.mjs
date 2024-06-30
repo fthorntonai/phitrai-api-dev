@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{Ab as c,Z as n,db as r,eb as i,ub as a}from"./chunk-TO3N4BVM.mjs";import"./chunk-VVCT4QZE.mjs";var m=(()=>{let e=class e{constructor(){}ngOnInit(){}};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-welcome"]],standalone:!0,features:[c],decls:2,vars:0,template:function(o,s){o&1&&(r(0,"p"),a(1,"welcome works!"),i())}});let t=e;return t})();var u=[{path:"",component:m}];export{u as WELCOME_ROUTES};
