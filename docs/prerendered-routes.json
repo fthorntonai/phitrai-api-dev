@@ -1,5 +1,6 @@
 {
   "routes": [
-    "/welcome"
+    "/welcome",
+    "/wizard"
   ]
 }

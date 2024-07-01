@@ -1,20 +1,5 @@
 
 --------------------------------------------------------------------------------
-Package: @angular/common
-License: "MIT"
-
-
---------------------------------------------------------------------------------
-Package: @angular/platform-browser
-License: "MIT"
-
-
---------------------------------------------------------------------------------
-Package: @angular/router
-License: "MIT"
-
-
---------------------------------------------------------------------------------
 Package: @ant-design/icons-angular
 License: "MIT"
 
@@ -90,7 +75,22 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 --------------------------------------------------------------------------------
+Package: @angular/common
+License: "MIT"
+
+
+--------------------------------------------------------------------------------
 Package: @angular/forms
+License: "MIT"
+
+
+--------------------------------------------------------------------------------
+Package: @angular/platform-browser
+License: "MIT"
+
+
+--------------------------------------------------------------------------------
+Package: @angular/router
 License: "MIT"
 
 
